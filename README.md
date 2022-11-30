@@ -6,7 +6,9 @@
 </p> 
 
 ## Blog Posts
+<h3>
 <a href="https://dev.to/ericahashert/react-for-beginners-45d1"><strong>React for Beginners</strong></a>
-<br />
-<br />
+</h3>
+<h3>
 <a href="https://dev.to/ericahashert/navigating-reactjs-with-usenavigate-3hj6"><strong>Navigating React.js with useNavigate</strong></a>
+</h3>
