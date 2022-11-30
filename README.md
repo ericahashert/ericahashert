@@ -12,3 +12,6 @@
 <h3>
 <a href="https://dev.to/ericahashert/navigating-reactjs-with-usenavigate-3hj6"><strong>Navigating React.js with useNavigate</strong></a>
 </h3>
+<h3>
+<a href="https://dev.to/ericahashert/think-like-a-coder-36h9"><strong>Think Like a Coder</strong></a>
+</h3>
